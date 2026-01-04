@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-My name is Nikolaos Kalampalikis, and I’m a Software Engineer with about 2 years of experience in full-stack and backend development. Most recently, I worked as a Software Engineer II at Boomi, where I contributed to a Java-based microservice and later focused on building reusable web components to enhance UI consistency. I hold a Master’s in Applied Mathematics and a Bachelor’s in Computer Science from Worcester Polytechnic Institute, where I also gained hands-on experience through internships at 128 Technology and Pivotal Software.
+I’m Nikolaos Kalampalikis, a Software Engineer with experience in backend and full-stack development. I am currently serving in the Hellenic Army’s Informatics Unit as a Software Engineer, working on large-scale internal systems and backend services.
 
-- 🔭 I’m currently on a sabbatical in Greece, working on a Sudoku solver app  
-- 🌱 I’m diving deeper into React and REST architecture  
+Previously, I worked as a Software Engineer II at Boomi, where I contributed to a Spring Boot–based microservice and later focused on building reusable web components to improve UI consistency across teams. I hold a Master’s in Applied Mathematics and a Bachelor’s in Computer Science from Worcester Polytechnic Institute, and gained additional industry experience through internships at 128 Technology and Pivotal Software.
+
+- 🔭 I’m currently on a sabbatical in Greece, serving in the military
+- 🌱 I’m diving deeper into Spring Boot and REST architecture  
 - 💬 Ask me about math, algorithms, or puzzles — I'd be happy to help!  
 - 📫 Reach me at: [nkalampalikis97@gmail.com](mailto:nkalampalikis97@gmail.com)
 
