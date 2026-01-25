@@ -10,7 +10,7 @@ Previously, I worked as a Software Engineer II at Boomi, where I contributed to 
 - 📫 Reach me at: [nkalampalikis97@gmail.com](mailto:nkalampalikis97@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nkalampalikis)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nkalampalikis)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nikolaos-Kalampalikis)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/nkalampalikis)
 
 
